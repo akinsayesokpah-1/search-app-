@@ -1,0 +1,8 @@
+# Use SERPAPI_KEY to enable SerpApi results.
+SERPAPI_KEY=your_serpapi_key_here
+
+# Optional: BRAVE_API_KEY=your_brave_key_here
+BRAVE_API_KEY=
+
+# Choose preferred provider: 'serpapi' | 'brave' | 'local'
+SEARCH_PROVIDER=local
